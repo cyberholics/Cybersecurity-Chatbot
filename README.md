@@ -47,5 +47,5 @@ Applied LoRA fine-tuning techniques using the Gemma Model.
 Achieved high accuracy in generating relevant and precise answers.
 
 ### More Details
-Link to finetune script: https://www.kaggle.com/code/victorkingoshimua/fine-tune-gemma-model-in-keras-using-lora
+Link to finetune script on kaggle: https://www.kaggle.com/code/victorkingoshimua/fine-tune-gemma-model-in-keras-using-lora
 
